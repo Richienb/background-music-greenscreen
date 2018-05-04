@@ -2,4 +2,3 @@ User-agent: Browsershots
 Disallow:
 User-agent: *
 Disallow: /start.html
-Disallow: /test.html
